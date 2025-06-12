@@ -33,5 +33,5 @@ Go to frontend and backend directory and run this command
 Setup .env file in backend folder
 
 `4. Run Project`
-npm run dev in frontwnd directory o run tha project
+npm run dev in frontend directory to run tha project
 
