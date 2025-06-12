@@ -2,31 +2,21 @@
 
 Your own password manager created in MERN stack
 
-`React.js for front end`
+### 🔧 Tech Stack
 
-`Node.js  for backend`
+- React / Vite / Tailwind(Frontnd)
+- Node.js / Express(Backend)
+- MongoDB(Database)
 
-`MongoDB to store data in database`
 
-`Tailwind CSS for designing`
 
-This app includes....
+##### Includes....
 
-`````1.Frindly UI/UX`````
+- Frindly UI/UX
 
-`````2.Includes Responsiveness`````
+- Responsiveness
 
-`````3.CRUD operations`````
+- CRUD operations
 
-`````4.Dealing with API's`````
+- Dealing with API's
 
-## 🔧 Tech Stack
-
-- React / Vite / Tailwind
-- Node.js / Express
-- MongoDB
-- Any other libraries used (e.g., Axios, Lordicon, etc.)
-
-```bash
-git clone https://github.com/yourusername/your-project.git
-cd your-project
