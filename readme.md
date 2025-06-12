@@ -21,10 +21,10 @@ Your own password manager created in MERN stack
 - Dealing with API's
 
 
-## ⚙️ Setup & Installation
+### ⚙️ Setup & Installation
 
 `1. git clone https://github.com/Abdullah-Hassan20/Password-Manager`
-Open root directory and ru this command
+Open root directory and run this command
 
 `2. npm i`
 Go to frontend and backend directory and run this command
