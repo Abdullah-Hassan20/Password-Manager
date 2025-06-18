@@ -1,37 +1,48 @@
-# Password Manager
+# 🔐 Password Manager
 
-Your own password manager created in MERN stack
+A secure and responsive web-based Password Manager built using the **MERN stack (MongoDB, Express, React, Node.js)**. This app allows users to store, manage, and update their passwords for different platforms with ease and security.
 
-### 🔧 Tech Stack
+---
 
-- React / Vite / Tailwind(Frontnd)
-- Node.js / Express(Backend)
-- MongoDB(Database)
+## 🚀 Features
 
+- ➕ Add new credentials with platform name, email/username, and password
+- 🔍 Search and filter stored passwords
+- 📝 Update saved entries in real-time
+- ❌ Delete credentials when no longer needed
+- 👀 Toggle password visibility
+- 🎨 Clean UI with responsive layout and animated Lordicon buttons
 
+---
 
-#### Includes....
+## 🛠️ Tech Stack
 
-- Frindly UI/UX
+- **Frontend**: React.js, Tailwind CSS, Axios
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Icons/Animation**: Lordicon
 
-- Responsiveness
+---
 
-- CRUD operations
+## ⚙️ Installation & Setup
 
-- Dealing with API's
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Abdullah-Hassan20/Password-Manager.git
+   cd Password-Manager
 
+2. **Setup Backend**
+   cd backend
+   npm install
+   npm start
 
-### ⚙️ Setup & Installation
+3. **Setup Frontend**
+   cd frontend
+   npm install
+   npm start
 
-`1. git clone https://github.com/Abdullah-Hassan20/Password-Manager`
-Open root directory and run this command
-
-`2. npm i`
-Go to frontend and backend directory and run this command
-
-`3. Setup environment variables`
-Setup .env file in backend folder
-
-`4. Run Project`
-npm run dev in frontend directory to run tha project
+✍️ Author
+  Abdullah Hassan
+  📧 abdullahrouf267@gmail.com
+  🌐 GitHub
 
