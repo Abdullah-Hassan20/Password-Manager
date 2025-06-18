@@ -43,7 +43,7 @@ A secure and responsive web-based Password Manager built using the **MERN stack 
    npm install
    npm start
 
-✍️ Author
+## ✍️ Author
 
   Abdullah Hassan
   
