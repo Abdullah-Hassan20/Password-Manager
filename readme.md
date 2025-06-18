@@ -32,17 +32,22 @@ A secure and responsive web-based Password Manager built using the **MERN stack 
    cd Password-Manager
 
 2. **Setup Backend**
+   ```bash
    cd backend
    npm install
    npm start
 
-3. **Setup Frontend**
+4. **Setup Frontend**
+   ```bash
    cd frontend
    npm install
    npm start
 
 ✍️ Author
+
   Abdullah Hassan
+  
   📧 abdullahrouf267@gmail.com
-  🌐 GitHub
+  
+  🌐 GitHub Abdullah-Hassan20
 
