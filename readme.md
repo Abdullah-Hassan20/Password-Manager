@@ -45,9 +45,7 @@ A secure and responsive web-based Password Manager built using the **MERN stack 
 
 ## ✍️ Author
 
-  Abdullah Hassan
-  
-  📧 abdullahrouf267@gmail.com
-  
-  🌐 GitHub Abdullah-Hassan20
+**Abdullah Hassan**  
+📧 abdullahrouf267@gmail.com  
+🔗 [GitHub](https://github.com/Abdullah-Hassan20)
 
