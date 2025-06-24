@@ -24,6 +24,12 @@ A secure and responsive web-based Password Manager built using the **MERN stack 
 
 ---
 
+## 📸 Preview
+<img width="250" alt="data" src="https://github.com/user-attachments/assets/747d2122-afdb-4878-872e-9befe548efd8" />
+<img width="250" alt="pss" src="https://github.com/user-attachments/assets/7b6ff1a3-169a-4128-b1d9-e9276af3b65f" />
+<img width="250" alt="rcord" src="https://github.com/user-attachments/assets/67cd6dce-1593-450a-b661-9c096d98f8db" />
+
+
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
